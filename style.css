@@ -1,0 +1,105 @@
+.navbar-brand img{
+width:177.07px;
+height: 57px;
+}
+.part-1{
+width: 100%;
+}
+.btn{
+    border-radius: 20px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.part-2{
+    padding: 20px 40px;
+    background: #F0FFF0;
+}
+.first-img{
+   width: 100%;
+}
+.span-clr{
+    color: #42f5b3;
+}
+p{
+    color: gray;
+}
+.P-2{
+    color: black;
+    font-weight: 560;
+}
+.button-1{
+    background-color:#4CAF50; /* Green */
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.card-img-top{
+    width: 25%;
+}
+.card-img-top1{
+    width: 22%;
+}
+.back-card , .shadow-crd{
+    align-items: center;
+    padding:40px;
+}
+.card-deck{
+    padding:100px;
+}
+.back-card{
+    background-color: #F8FFFB;
+}
+.shadow-crd{
+    border:none;
+    box-shadow: 5px 5px 40px gray;
+}
+.online-course{
+    text-align: center;
+}
+.card-img{
+    width:100%;
+}
+.card-img-top3{
+    width: 400px;
+    padding-top: 10px 10px;
+}
+.card-body{
+    text-align: left;
+}
+.card-img-top3{
+    width: 100%;
+    padding:10px;
+}
+.calender{
+    width:13%;
+}
+.pad-1{
+    padding-top: 25px;
+}
+.man{
+    height: 93%;
+    width: 30%;
+}
+.pragraph{
+    color: white;
+}
+.text{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.last-background{
+    background-color:black;
+    width: 100%;
+}
+.foot1{
+   text-align: center;
+   padding-top: 30px;
+}
+
+
+
